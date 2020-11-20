@@ -1,2 +1,2 @@
 # Data Science project spring 2020
-Group project of bfh wing data science module
+As part of the "Data Science" module, the class was given the task of making a prediction for the price of used cars. The aim is to make as accurate a prediction as possible for the price in a Kaggle competition. The participants should learn how to approach such a project by means of a practical example. To apply the theoretical material from the class. This work includes a Jupyter notebook and a presentation of the results. The work will be solved in groups of three or four. This work is limited to the train and a test file of the corresponding Kaggle competition.
